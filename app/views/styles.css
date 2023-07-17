@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+#container div{
+    display:inline-block;
+    margin: 50px;
+}
+#newNote div{
+    display:inline-block;
+    margin: 50px;
+}
